@@ -2,3 +2,6 @@
 /repo_utility
 /.ipynb_checkpoints
 /submissions
+debug.log
+/repoUtility
+**/__pycache__
